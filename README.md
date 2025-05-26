@@ -5,8 +5,6 @@ From cleaning the data to answering real business questions, it demonstrates the
 
 ---
 
----
-
 ## 📌 Project Goals
 
 - Create and clean a structured retail sales database
